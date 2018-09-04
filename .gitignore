@@ -1,4 +1,13 @@
 node_modules
+<<<<<<< HEAD
 secrets.js
 bundle.js
 bundle.js.map
+=======
+public/bundle.js
+public/bundle.js.map
+secrets.js
+.DS_Store
+npm-debug.log
+yarn-error.log
+>>>>>>> boilermaker/master
